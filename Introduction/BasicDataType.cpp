@@ -11,7 +11,7 @@ Double ("%lf"): 64 bit real value*/
 using namespace std;
 
 int main() {
-    // Complete the code.
+    
     int a;
     long int longint1;
     char c;
