@@ -1,0 +1,12 @@
+/* to print my names 10 times
+using for loop*/
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    for(int i=0;i<11;i++){
+        cout<<"Hi my name is Slim Shady"<<endl;
+    }
+    return 0;
+}
